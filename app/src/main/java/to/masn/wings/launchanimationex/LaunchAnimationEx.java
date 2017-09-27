@@ -15,7 +15,7 @@ import android.widget.LinearLayout;
 /**
  * Created by 4163208 on 2017/09/26.
  */
-
+//つだのぽんぽこりん（Git用コメント）
 public class LaunchAnimationEx extends Activity implements View.OnClickListener{
     private final static int WC = ViewGroup.LayoutParams.WRAP_CONTENT;
     private final static String TAG_DEFAULT = "default";
